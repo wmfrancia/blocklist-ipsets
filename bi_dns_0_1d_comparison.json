@@ -1,0 +1,20 @@
+[
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 24873,
+		"common": 1
+	},
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 29331,
+		"common": 1
+	},
+	{
+		"name": "bi_named_0_1d",
+		"category": "attacks",
+		"ips": 1,
+		"common": 1
+	}
+]
